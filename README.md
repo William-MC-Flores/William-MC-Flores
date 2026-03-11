@@ -66,7 +66,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/William-MC-Flores/William-MC-Flores/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/William-MC-Flores/William-MC-Flores/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
