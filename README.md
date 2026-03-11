@@ -1,9 +1,7 @@
 # 👋 Olá! Eu sou William Meireles da Cunha Flores
 
----
-
 📚 **Aluno em processo de aprendizado.**
-🎯 **Dev focado em linguagens de lógica e backend.**  
+🎯 Dev focado em linguagens de lógica e backend.
 💡 Apaixonado por inovação, automação e soluções inteligentes.  
 🚀 Busco sempre aprimorar meus conhecimentos em Python, Lua e Java.
 
