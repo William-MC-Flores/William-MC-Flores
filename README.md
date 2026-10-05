@@ -30,11 +30,9 @@ Tenho grande interesse em:
 - Lógica de programação avançada
 
 ---
-
-## 💻 Tecnologias
 <div align="center">
 
-![Linguagens](https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:1793D1&height=60&section=header&text=Linguagens&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
+![Tecnoligias](https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:1793D1&height=60&section=header&text=Linguagens&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
 
 </div>
 <div align="center">
@@ -52,11 +50,6 @@ Tenho grande interesse em:
 
 <div align="center">
 
-![Web](https://capsule-render.vercel.app/api?type=soft&color=0:E34F26,100:7F52FF&height=60&section=header&text=Web&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
-
-</div>
-<div align="center">
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -67,22 +60,12 @@ Tenho grande interesse em:
 
 <div align="center">
 
-![Banco de Dados](https://capsule-render.vercel.app/api?type=soft&color=0:003545,100:4479A1&height=60&section=header&text=Banco%20de%20Dados&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
-
-</div>
-<div align="center">
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
-<div align="center">
-
-![Ferramentas](https://capsule-render.vercel.app/api?type=soft&color=0:F05032,100:007ACC&height=60&section=header&text=Ferramentas&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
-
-</div>
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -96,11 +79,6 @@ Tenho grande interesse em:
 
 <div align="center">
 
-![Terminal e Virtualização](https://capsule-render.vercel.app/api?type=soft&color=0:4D4D4D,100:5391FE&height=60&section=header&text=Terminal%20e%20Virtualiza%C3%A7%C3%A3o&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
-
-</div>
-<div align="center">
-
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Wine](https://img.shields.io/badge/Wine-722F37?style=for-the-badge&logo=wine&logoColor=white)
@@ -108,11 +86,6 @@ Tenho grande interesse em:
 
 </div>
 
-<div align="center">
-
-![Sistemas](https://capsule-render.vercel.app/api?type=soft&color=0:E95420,100:1793D1&height=60&section=header&text=Sistemas&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
-
-</div>
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
