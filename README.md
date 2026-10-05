@@ -30,6 +30,8 @@ Tenho grande interesse em:
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
+[![Skills](https://skillicons.dev/icons?i=java,py,kotlin,lua,php,js,bash,html,css,nodejs,mysql,sqlite,git,github,vscode,linux,arch,ubuntu,debian)](https://skillicons.dev)
+
 ### 🌐 Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
