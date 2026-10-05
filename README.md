@@ -32,7 +32,7 @@ Tenho grande interesse em:
 ---
 <div align="center">
 
-![Tecnoligias](https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:1793D1&height=60&section=header&text=Linguagens&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
+![Tecnologias](https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,50:1793D1,100:339933&height=80&section=header&text=Tecnologias&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
 
 </div>
 <div align="center">
