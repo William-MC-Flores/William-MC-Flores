@@ -135,23 +135,11 @@ Tenho grande interesse em:
 
 <div align="center">
 
-![Contributions](https://capsule-render.vercel.app/api?type=soft&color=0:16a34a,100:0f172a&height=70&section=header&text=Contributions&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
-
-</div>
-
-<div align="center">
-
 ![Snake animation](https://raw.githubusercontent.com/William-MC-Flores/William-MC-Flores/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
-
-<div align="center">
-
-![Filosofia](https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:0f172a&height=70&section=header&text=Filosofia&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
-
-</div>
 
 > “A lógica é a base de toda criação. Com ela, transformamos ideias em soluções e soluções em inovação.”
 
