@@ -2,8 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1793D1,100:7F52FF&height=200&section=header&text=William%20Flores&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Backend%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Sistemas&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1793D1&center=true&vCenter=true&width=520&lines=Estudante+de+TI+%28Ensino+M%C3%A9dio+T%C3%A9cnico%29;Foco+em+l%C3%B3gica+e+backend;Apaixonado+por+automa%C3%A7%C3%A3o+e+inova%C3%A7%C3%A3o)](https://github.com/William-MC-Flores)
-
 </div>
 
 ---
@@ -17,7 +15,11 @@
 
 ---
 
-## 🧠 Sobre mim
+<div align="center">
+
+![Sobre mim](https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1793D1&height=70&section=header&text=Sobre%20mim&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
+
+</div>
 
 Sou um desenvolvedor em constante evolução, com foco em construir soluções eficientes, organizadas e escaláveis.
 
@@ -30,8 +32,11 @@ Tenho grande interesse em:
 ---
 
 ## 💻 Tecnologias
+<div align="center">
 
-### 🔹 Linguagens
+![Linguagens](https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:1793D1&height=60&section=header&text=Linguagens&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
+
+</div>
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,7 +50,11 @@ Tenho grande interesse em:
 
 </div>
 
-### 🌐 Web
+<div align="center">
+
+![Web](https://capsule-render.vercel.app/api?type=soft&color=0:E34F26,100:7F52FF&height=60&section=header&text=Web&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
+
+</div>
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,7 +65,11 @@ Tenho grande interesse em:
 
 </div>
 
-### 🗄 Banco de Dados
+<div align="center">
+
+![Banco de Dados](https://capsule-render.vercel.app/api?type=soft&color=0:003545,100:4479A1&height=60&section=header&text=Banco%20de%20Dados&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
+
+</div>
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -65,7 +78,11 @@ Tenho grande interesse em:
 
 </div>
 
-### 🧰 Ferramentas
+<div align="center">
+
+![Ferramentas](https://capsule-render.vercel.app/api?type=soft&color=0:F05032,100:007ACC&height=60&section=header&text=Ferramentas&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
+
+</div>
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -77,7 +94,11 @@ Tenho grande interesse em:
 
 </div>
 
-### ⌨️ Terminal e Virtualização
+<div align="center">
+
+![Terminal e Virtualização](https://capsule-render.vercel.app/api?type=soft&color=0:4D4D4D,100:5391FE&height=60&section=header&text=Terminal%20e%20Virtualiza%C3%A7%C3%A3o&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
+
+</div>
 <div align="center">
 
 ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnometerminal&logoColor=white)
@@ -87,7 +108,11 @@ Tenho grande interesse em:
 
 </div>
 
-### 🖥 Sistemas
+<div align="center">
+
+![Sistemas](https://capsule-render.vercel.app/api?type=soft&color=0:E95420,100:1793D1&height=60&section=header&text=Sistemas&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
+
+</div>
 <div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -103,7 +128,11 @@ Tenho grande interesse em:
 
 ---
 
-## 📊 Estatísticas
+<div align="center">
+
+![Estatísticas](https://capsule-render.vercel.app/api?type=soft&color=0:282a36,100:bd93f9&height=70&section=header&text=Estat%C3%ADsticas&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
+
+</div>
 
 <div align="center">
 
@@ -114,7 +143,11 @@ Tenho grande interesse em:
 
 ---
 
-## 📫 Contato
+<div align="center">
+
+![Contato](https://capsule-render.vercel.app/api?type=soft&color=0:25D366,100:1793D1&height=70&section=header&text=Contato&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
+
+</div>
 
 <div align="center">
 
@@ -127,7 +160,11 @@ Tenho grande interesse em:
 
 ---
 
-## 🐍 Contributions
+<div align="center">
+
+![Contributions](https://capsule-render.vercel.app/api?type=soft&color=0:16a34a,100:0f172a&height=70&section=header&text=Contributions&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
+
+</div>
 
 <div align="center">
 
@@ -137,7 +174,11 @@ Tenho grande interesse em:
 
 ---
 
-## 💬 Filosofia
+<div align="center">
+
+![Filosofia](https://capsule-render.vercel.app/api?type=soft&color=0:7F52FF,100:0f172a&height=70&section=header&text=Filosofia&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=52)
+
+</div>
 
 > “A lógica é a base de toda criação. Com ela, transformamos ideias em soluções e soluções em inovação.”
 
